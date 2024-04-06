@@ -912,7 +912,13 @@ p {
   }
 }
 
+.img-hero{
+  width: 520px;
+}
 /* ====== feature css ====== */
+.feature-img{
+  width: 50px;
+}
 @media (max-width: 767px) {
   .feature-section.pt-120 {
     padding-top: 80px;
